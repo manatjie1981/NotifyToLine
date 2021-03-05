@@ -11,7 +11,7 @@
 	<groupId>com.notify</groupId>
 	<artifactId>linenotify</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>linenotify</name>
 	<description>Demo Notify Api project for Spring Boot</description>
 
