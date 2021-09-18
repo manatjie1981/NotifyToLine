@@ -1,4 +1,4 @@
-# line-bot-spring-boot-medium
+# line-bot-service
 
 [![Build Status](https://travis-ci.org/iphayao/line-bot-spring-boot-medium.svg?branch=master)](https://travis-ci.org/iphayao/line-bot-spring-boot-medium)
 
