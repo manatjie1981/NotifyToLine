@@ -1,4 +1,4 @@
 line.bot:
-  channel-token: iKxmpVCE3bW5967SYUHhrQnAgW8THj00f7pYUfcRl5j
+  channel-token: Jbz8dQYx5rejw4akIo34S5CBSOlQ9jCbX31MFiAYNjB
   channel-secret: 5ba98d3cc6e5f4e83203ba38af3a7b99
   handler.path: /callback
